@@ -19,3 +19,9 @@ python setup.py install
 
 I think [here](https://github.com/primetang/pyzernikemoment/tree/master/example) is a good example for the usage of pyzernikemoment.
 
+You can also run the example by run the following:
+```
+cd example
+python test_example.py
+```
+
