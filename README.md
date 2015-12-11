@@ -14,6 +14,10 @@ git clone https://github.com/primetang/pyzernikemoment.git
 cd pyzernikemoment
 python setup.py install
 ```
+Or directly through `pip` to install it:
+```
+pip install pyzernikemoment
+```
 
 ###3. Usage
 
