@@ -17,7 +17,7 @@ python setup.py install
 
 ###3. Usage
 
-I think [here](https://github.com/primetang/pyzernikemoment/tree/master/example) is a good example for the usage of pyzernikemoment.
+I think this is a [good example](https://github.com/primetang/pyzernikemoment/tree/master/example) for the usage of pyzernikemoment.
 
 You can also run the example by run the following:
 ```
