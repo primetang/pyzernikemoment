@@ -1,5 +1,5 @@
-pyzernikemoment - 0.0.1
-=======================
+pyzernikemoment
+===============
 
 ###1. Introduction
 pyzernikemoment is a python module to find the Zernike moments for an N x N binary ROI.
