@@ -1,5 +1,5 @@
-pyzernikemoment
-=============
+pyzernikemoment - 0.0.1
+=======================
 
 ###1. Introduction
 pyzernikemoment is a python module to find the Zernike moments for an N x N binary ROI.
@@ -17,5 +17,5 @@ python setup.py install
 
 ###3. Usage
 
-I think [here]() is a good example for the usage of pyzernikemoment.
+I think [here](https://github.com/primetang/pyzernikemoment/tree/master/example) is a good example for the usage of pyzernikemoment.
 
