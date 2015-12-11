@@ -2,7 +2,7 @@ pyzernikemoment
 ===============
 
 ###1. Introduction
-In short, pyzernikemoment is a python module to find the Zernike moments for an N x N binary ROI, and this is the [MATLAB version](http://www.mathworks.com/matlabcentral/fileexchange/38900-zernike-moments) by Amir Tahmasbi.
+In short, pyzernikemoment is a python module to find the Zernike moments for an N x N binary ROI, and the [MATLAB version](http://www.mathworks.com/matlabcentral/fileexchange/38900-zernike-moments) is written by Amir Tahmasbi.
 
 #####Please feel free to contact me [tanggefu@gmail.com] if you have any questions.
 
