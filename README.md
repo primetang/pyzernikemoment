@@ -34,3 +34,7 @@ cd example
 python test_example.py
 ```
 
+The follow is the result, where `A` is the amplitude of the moment, and `Phi` is the phase.
+
+![](https://github.com/primetang/pyzernikemoment/blob/master/example/res.png)
+
