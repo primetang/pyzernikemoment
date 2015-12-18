@@ -14,13 +14,13 @@ This package uses distutils, which is the default way of installing python modul
 ```
 git clone https://github.com/primetang/pyzernikemoment.git
 cd pyzernikemoment
-python setup.py install
+[sudo] python setup.py install
 ```
 
 Or directly through `pip` to install it:
 
 ```
-pip install pyzernikemoment
+[sudo] pip install pyzernikemoment
 ```
 
 ###3. Usage
