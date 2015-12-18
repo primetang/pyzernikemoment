@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pyzernikemoment",
-    version="0.0.1",
+    version="0.0.2",
     author="Gefu Tang",
     author_email="tanggefu@gmail.com",
     description=(

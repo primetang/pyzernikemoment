@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: pyzernikemoment
-Version: 0.0.1
+Version: 0.0.2
 Summary: pyzernikemoment is a python module to find the Zernike moments for an N x N binary ROI.
 Home-page: https://github.com/primetang/pyzernikemoment
 Author: Gefu Tang
